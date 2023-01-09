@@ -4,7 +4,7 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C</code>
+<code>🧑‍💻 Languages: Kotlin, Java, JavaScript, C</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@Trototoo](https://telegram.me/Trototoo)</code>
 <code>📫 [my-email](mailto:sa44ko@gmail.com)</code>
