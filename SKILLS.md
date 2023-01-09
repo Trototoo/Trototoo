@@ -57,7 +57,7 @@
 | ⬜ Actor model                 | ⬜ Introspection      |                      |                          |
 |                                | ⬜ Reflection         |                      |                          |
 
-## Asynchronous programming
+<!-- ## Asynchronous programming
 
 | Async contracts        | JavaScript & Node.js specific  | Theory              | Techniques               |
 |------------------------|--------------------------------|---------------------|--------------------------|
@@ -109,3 +109,4 @@
 | ⬜ SharedArrayBuffer | 🟦 Event Sourcing            |                   |                  |                      |
 | 🟦 child_process     | 🟦 Shared memory             |                   |                  |                      |
 | 🟦 worker_threads    |                              |                   |                  |                      |
+-->
